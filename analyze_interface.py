@@ -12,7 +12,7 @@ Requirements:
       OR modify PROTEIN1_NAME / PROTEIN2_NAME to match your object names.
 
 Author: Miguel Perez Gallego
-Date:   05/10/2026
+Date:   2026-10-05
 """
 
 from pymol import cmd
